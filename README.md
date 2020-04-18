@@ -1,4 +1,4 @@
-# C3D2-Bullshit-Bingo
+# rundfunk17 Bingo
 
 WHAT IT IS:
 
@@ -16,4 +16,4 @@ HOW TO USE:
 
 All data is kept in the "data.js" file. Customize the .json in the data.js file to change the language on the board.
 
-Forked from https://github.com/jeffehobbs/HTML5-bingo
+Forked from https://github.com/c3d2/c3d2-bullshit-bingo
