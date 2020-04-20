@@ -129,6 +129,9 @@ body {
    	background-color: red;
 }
 
+
+
+
 @media only screen and (max-device-width : 768px) {
 #footer {
 	display: none;
@@ -165,6 +168,9 @@ body {
 }
 }
 
+
+
+
 @media only screen and (max-device-width : 420px) {
 
 #board {
@@ -181,6 +187,7 @@ body {
 	font-size: 0.8em;
 	line-height: 1em;
 }
+
 }
 
 
